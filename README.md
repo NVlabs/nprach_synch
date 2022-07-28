@@ -48,7 +48,7 @@ Two notebooks may serve as starting point:
 
 These notebooks rely on the following modules:
 
-* [nprach/](nrpach/) : Implements the NPRACH waveform.
+* [nprach/](nprach/) : Implements the NPRACH waveform.
 * [synch/](synch/) : Implements two NPRACH synchronization algorithms, the deep learning-based one that we propose [[A]](https://arxiv.org/abs/2205.10805) and a strong baseline [[B]](https://ieeexplore.ieee.org/abstract/document/9263250/).
 * [e2e/](e2e/) : Implements a model for simulating the end-to-end system, which includes NPRACH waveform generation, 3GPP UMi channel model, and synchronization using the two available algorithms.
 
